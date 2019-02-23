@@ -4,7 +4,7 @@
   "description": "",
   "keywords": [],
   "main": "src/index.js",
-  "homepage": "https://miyurumadu.github.io/js-with-me/react",
+  "homepage": "https://miyurumadu.github.io/js-with-me/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "16.8.0",
